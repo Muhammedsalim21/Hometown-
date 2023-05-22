@@ -1,0 +1,90 @@
+body {
+	  margin: 0;
+	  color: #ffffff;
+	  text-align: center;
+	  font-family: 'Quicksand', sans-serif;
+	 
+
+}
+
+#main {
+    background: url(images/asmara.jpeg);
+    background-size: cover;
+    padding: 40px 0 250px 0;
+	 display: flex;
+	 flex-direction: column;
+	 align-items: center;
+	 text-shadow: 0 0 5px #000000;
+
+}
+
+.hdg-1 {
+    background: #ef233c;
+	 padding: 10px 15px;
+	 border-radius: 7px;
+	 
+}
+
+#hdg-2 {
+    margin: 10px 0;
+}
+
+#hdg-3 {
+    background: #2b2d42;
+	 padding: 10px 15px;
+	 border-radius: 7px;
+	 margin: 20px 0;
+}
+
+#main-2 {
+   color: #000000;
+	background: #d7e3fc;
+	padding: 0 0 5px 0;	
+}
+
+#vi { 
+   display: flex;
+	justify-content: space-around;
+	margin: 15px 0;
+
+}
+
+.row { 
+   padding: 0 60px;
+}
+
+.img-1 {
+  width: 100px;
+  border-radius: 50%;
+}
+
+#hdg-4 {
+   margin: 0 0 25px 0;
+	padding: 25px;
+   
+   
+}
+#post {
+   color: #000000;
+	background: #70d6ff;
+   display: flex;
+	justify-content: space-around;
+	margin: 50px auto;
+	border-bottom: 5px solid #000000;
+	border-radius: 5px;
+	width: 500px;
+	height: 250px;
+	padding: 20px 0;
+	
+}
+
+#img-2 {
+   width: 200px;
+   border-radius: 5px;
+	padding: 0 20px;
+	
+}
+#post-1 {
+      padding: 0 20px;
+  
+}
